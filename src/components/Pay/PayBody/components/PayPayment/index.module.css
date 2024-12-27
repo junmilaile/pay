@@ -1,0 +1,13 @@
+.container-pay-payment {
+  width: 1248px;
+  height: 569px;
+  padding: 24px;
+  border-radius: 12px;
+  background: #fff;
+  margin-top: 16px;
+  display: grid;
+  grid-template-columns: 760px 424px;
+  grid-template-rows: 64px 1fr;
+  column-gap: 16px;
+  row-gap: 16px;
+}

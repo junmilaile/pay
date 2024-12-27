@@ -1,0 +1,10 @@
+.container-layout-header {
+  height: 64px;
+  width: 100%;
+  padding: 13px 0 13px 20px;
+  background-color: white;
+  img {
+    width: 152px;
+    height: 38px;
+  }
+}
